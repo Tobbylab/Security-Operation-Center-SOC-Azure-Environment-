@@ -4,8 +4,25 @@ Deploy a honeypot in an isolated Azure virtual environment and expose it to the 
 
 <img width="2096" height="1199" alt="Image" src="https://github.com/user-attachments/assets/35d4d7d6-e3b4-460f-bf42-66798617013e" />
 
+Vnet-tobisoblab completed
+
 
 <img width="2551" height="1133" alt="Image" src="https://github.com/user-attachments/assets/a3764dea-c106-4427-86a2-8f27165f447b" />
+
+
+Azure Virtual Machine Deployed
+
+
+<img width="1907" height="763" alt="Image" src="https://github.com/user-attachments/assets/62b5cfba-614b-4d51-b80a-6ac16f0254af" />
+
+
+Network Security group firewall - outbound and inbound rules set to ANY
+
+
+
+<img width="2548" height="883" alt="Image" src="https://github.com/user-attachments/assets/de854f06-decf-40b2-aea2-9cb6d0dffc24" />
+
+<img width="2556" height="916" alt="Image" src="https://github.com/user-attachments/assets/2e3ba440-5a0c-437f-830d-f31c23ecb714" />
 
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8d80b54d-1792-489e-893e-1f8bdf0affc1" />
 
@@ -25,13 +42,9 @@ Deploy a honeypot in an isolated Azure virtual environment and expose it to the 
 
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8db3fa7b-3fc3-453d-bd12-d06c1563b048" />
 
-<img width="2547" height="1269" alt="Image" src="https://github.com/user-attachments/assets/af020d9d-1d06-4b35-8f65-878d3e331bf4" />
-
-<img width="2560" height="1296" alt="Image" src="https://github.com/user-attachments/assets/f226b910-412c-4337-9284-157d845ac1ba" />
 
 <img width="1907" height="763" alt="Image" src="https://github.com/user-attachments/assets/62b5cfba-614b-4d51-b80a-6ac16f0254af" />
 
-<img width="2556" height="916" alt="Image" src="https://github.com/user-attachments/assets/2e3ba440-5a0c-437f-830d-f31c23ecb714" />
 
 <img width="2548" height="883" alt="Image" src="https://github.com/user-attachments/assets/de854f06-decf-40b2-aea2-9cb6d0dffc24" />
 
