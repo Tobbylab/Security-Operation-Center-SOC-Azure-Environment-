@@ -5,6 +5,8 @@ Deploy a honeypot in an isolated Azure virtual environment and expose it to the 
 <img width="2096" height="1199" alt="Image" src="https://github.com/user-attachments/assets/35d4d7d6-e3b4-460f-bf42-66798617013e" />
 
 
+<img width="2551" height="1133" alt="Image" src="https://github.com/user-attachments/assets/a3764dea-c106-4427-86a2-8f27165f447b" />
+
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8d80b54d-1792-489e-893e-1f8bdf0affc1" />
 
 
