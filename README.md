@@ -1,6 +1,6 @@
 # Security-Operation-Center-SOC-Azure-Environment-
 
-Deploy a public-facing honeypot inside an Azure virtual environment; it will typically attract probes and attacks within minutes. Configure log forwarding so all events and failed access attempts are streamed to a secure central repository, then ingest those logs into Microsoft Sentinel. Finally, author a KQL query to visualize an attack map showing the geographic origins of the attacks.
+Deploy a honeypot in an isolated Azure virtual environment and expose it to the public Internet in a controlled manner (with dedicated VNet isolation and narrowly scoped network rules); expect probes within minutes. Forward honeypot logs and failed-attempt events to a central repository, ingest them into Microsoft Sentinel, and run a KQL query to produce a geo-enriched attack map showing attack origins.
 
 <img width="2096" height="1199" alt="Image" src="https://github.com/user-attachments/assets/35d4d7d6-e3b4-460f-bf42-66798617013e" />
 
