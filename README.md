@@ -16,13 +16,43 @@ Azure Virtual Machine Deployed
 <img width="1907" height="763" alt="Image" src="https://github.com/user-attachments/assets/62b5cfba-614b-4d51-b80a-6ac16f0254af" />
 
 
+OTIT- virtual Machine
+
+Vnet-Tobisoclab - Vnet
+
+
+<img width="2556" height="916" alt="Image" src="https://github.com/user-attachments/assets/2e3ba440-5a0c-437f-830d-f31c23ecb714" />
+
+
+
+
+
 Network Security group firewall - outbound and inbound rules set to ANY
 
 
 
 <img width="2548" height="883" alt="Image" src="https://github.com/user-attachments/assets/de854f06-decf-40b2-aea2-9cb6d0dffc24" />
 
-<img width="2556" height="916" alt="Image" src="https://github.com/user-attachments/assets/2e3ba440-5a0c-437f-830d-f31c23ecb714" />
+
+
+
+Outbound and inbound firewall OFF
+
+
+<img width="1528" height="1032" alt="Image" src="https://github.com/user-attachments/assets/70dbadee-0a15-4d98-a418-be7169f2af9b" />
+
+
+
+Ping Network - Indicates connection 
+
+
+<img width="2392" height="1119" alt="Image" src="https://github.com/user-attachments/assets/86840720-45c6-485f-89a7-45db938ed4df" />
+
+
+
+
+<img width="2540" height="1250" alt="Image" src="https://github.com/user-attachments/assets/40fd8f8e-8674-43ad-aa0d-f2777b035cc9" />
+
 
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8d80b54d-1792-489e-893e-1f8bdf0affc1" />
 
@@ -30,9 +60,8 @@ Network Security group firewall - outbound and inbound rules set to ANY
 
 <img width="2528" height="1085" alt="Image" src="https://github.com/user-attachments/assets/f5282921-1825-4ee4-81b7-e37f7972da58" />
 
-<img width="2540" height="1250" alt="Image" src="https://github.com/user-attachments/assets/40fd8f8e-8674-43ad-aa0d-f2777b035cc9" />
 
-<img width="1745" height="1036" alt="Image" src="https://github.com/user-attachments/assets/32160b00-9f1e-4d5c-9503-578a32e10d35" />
+
 
 <img width="1560" height="1185" alt="Image" src="https://github.com/user-attachments/assets/c2131964-3e32-4ca3-83f7-38b27bd7bacd" />
 
@@ -58,7 +87,6 @@ Network Security group firewall - outbound and inbound rules set to ANY
 
 <img width="2442" height="991" alt="Image" src="https://github.com/user-attachments/assets/7df54315-3b21-4631-afd8-f5ab322e51a4" />
 
-<img width="2543" height="995" alt="Image" src="https://github.com/user-attachments/assets/3d87d3f0-a12c-4d79-bf48-701665d766a7" />
 
 <img width="2392" height="1119" alt="Image" src="https://github.com/user-attachments/assets/86840720-45c6-485f-89a7-45db938ed4df" />
 
