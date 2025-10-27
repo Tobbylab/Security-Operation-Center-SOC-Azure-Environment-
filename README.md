@@ -34,6 +34,12 @@ Network Security group firewall - outbound and inbound rules set to ANY
 <img width="2548" height="883" alt="Image" src="https://github.com/user-attachments/assets/de854f06-decf-40b2-aea2-9cb6d0dffc24" />
 
 
+RDP to Access and switch off windows firewall 
+
+
+
+<img width="2560" height="1296" alt="Image" src="https://github.com/user-attachments/assets/1f2c18d6-cc5d-4278-85f9-ba637ef31ec1" />
+
 
 
 Outbound and inbound firewall OFF
@@ -47,6 +53,32 @@ Ping Network - Indicates connection
 
 
 <img width="2392" height="1119" alt="Image" src="https://github.com/user-attachments/assets/86840720-45c6-485f-89a7-45db938ed4df" />
+
+
+<img width="1560" height="1185" alt="Image" src="https://github.com/user-attachments/assets/c2131964-3e32-4ca3-83f7-38b27bd7bacd" />
+
+
+
+Security Events via AMA - This will collect all the security events logs using Azure Monitor agent(AMA)
+
+
+
+<img width="2556" height="1176" alt="Image" src="https://github.com/user-attachments/assets/07f659f6-d131-44cd-9c19-445bf7fd0b2c" />
+
+
+Within just a few minutes , the VM scanned by more than 1,000 unique IP aadresses 
+
+
+
+<img width="2521" height="1289" alt="Image" src="https://github.com/user-attachments/assets/f97ec55c-557b-49db-be4c-fb6fa81aa2c7" />
+
+
+Performed OSINT investigation on a selected IP Address 
+
+
+<img width="1546" height="601" alt="Image" src="https://github.com/user-attachments/assets/d54db201-f56c-4556-8eb9-7f904c4435a8" />
+
+
 
 
 
@@ -72,7 +104,7 @@ Ping Network - Indicates connection
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8db3fa7b-3fc3-453d-bd12-d06c1563b048" />
 
 
-<img width="1907" height="763" alt="Image" src="https://github.com/user-attachments/assets/62b5cfba-614b-4d51-b80a-6ac16f0254af" />
+
 
 
 <img width="2548" height="883" alt="Image" src="https://github.com/user-attachments/assets/de854f06-decf-40b2-aea2-9cb6d0dffc24" />
@@ -88,7 +120,6 @@ Ping Network - Indicates connection
 <img width="2442" height="991" alt="Image" src="https://github.com/user-attachments/assets/7df54315-3b21-4631-afd8-f5ab322e51a4" />
 
 
-<img width="2392" height="1119" alt="Image" src="https://github.com/user-attachments/assets/86840720-45c6-485f-89a7-45db938ed4df" />
 
 <img width="1560" height="1185" alt="Image" src="https://github.com/user-attachments/assets/a6507819-ac10-47bd-9ef5-f0a19a8f77eb" />
 
