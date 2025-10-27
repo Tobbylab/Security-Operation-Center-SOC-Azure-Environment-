@@ -73,20 +73,48 @@ Within just a few minutes , the VM scanned by more than 1,000 unique IP aadresse
 <img width="2521" height="1289" alt="Image" src="https://github.com/user-attachments/assets/f97ec55c-557b-49db-be4c-fb6fa81aa2c7" />
 
 
+<img width="2505" height="1230" alt="Image" src="https://github.com/user-attachments/assets/b47db34d-a549-44da-a9dc-a050f6c14e1d" />
+
+
+
+
 Performed OSINT investigation on a selected IP Address 
 
 
-<img width="1546" height="601" alt="Image" src="https://github.com/user-attachments/assets/d54db201-f56c-4556-8eb9-7f904c4435a8" />
+<img width="2505" height="1230" alt="Image" src="https://github.com/user-attachments/assets/b47db34d-a549-44da-a9dc-a050f6c14e1d" />
 
 
 
+Abuse Percentage of 13%
 
 
+<img width="2013" height="993" alt="Image" src="https://github.com/user-attachments/assets/063decd1-bb10-4f73-b2db-b83a0b8df212" />
 
-<img width="2540" height="1250" alt="Image" src="https://github.com/user-attachments/assets/40fd8f8e-8674-43ad-aa0d-f2777b035cc9" />
 
 
 <img width="2526" height="1223" alt="Image" src="https://github.com/user-attachments/assets/8d80b54d-1792-489e-893e-1f8bdf0affc1" />
+
+
+
+After Running this Query 
+
+let GeoIPDB_FULL == _Getwatchlist ("geoip")
+
+let  WindowsEvents == securityEvent
+
+     | where ipAddress == "210.222.67.2223"
+     
+     | wgere Event ID 4625 
+     
+     | order by TimeGenerated desc
+     
+     | evaluate ipv4_lookup (GeoIPDB_FULL, IpAddress, network);
+     
+WindownsEvents
+| project TimeGenerated, computer, AttackIP,== cityname, countryname, latitude, longtide 
+
+<img width="2540" height="1250" alt="Image" src="https://github.com/user-attachments/assets/40fd8f8e-8674-43ad-aa0d-f2777b035cc9" />
+
 
 
 
